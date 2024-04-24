@@ -11,7 +11,6 @@ As global food demand rises, the environmental impact associated with it intensi
 - **Approaches Used:**
   - **Collaborative Filtering:** Predicts and recommends new recipes using user ratings and similarities among users.
   - **Content Filtering:** Matches recipes to users based on carbon footprint, preparation difficulty, and nutritional content.
-  - **Singular Value Decomposition (SVD):** Analyzes ratings data to capture hidden preferences and attributes, improving recommendation accuracy.
 
 ## Installation and Usage Instructions
 To set up the Recipe Recommendation System on your local machine, follow these steps:
